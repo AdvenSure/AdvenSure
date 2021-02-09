@@ -2,7 +2,7 @@
 <img src= "./suitcase.png">
 
 ## About
-insert about
+AdvenSure was created for travelers who want a convenient way to create and store packing lists for trips. They can check the forecast for their destination to make sure they're packing appropriately. Users can add items from our pre-made lists, as well as add their own personal items to the checklist. User's lists are stored offline so they can be checked even outside of service range while traveling.
 
 
 
